@@ -116,8 +116,83 @@ nav{
     color: #008f99 !important;
     font-size: 25px;
     font-weight: bold;
-   }
-
+}
+.greyBack{
+   background-color: ;
+   padding: 50px 0px 20px 0px;
+}
+.rightBorder{
+   border-right: 1px solid #008f99; 
+}
+.bigHeading{
+   font-family: 'Montserrat', sans-serif;
+   color: #008f99;
+    font-size: 30px;
+    font-weight: 600;
+}
+.subHeading{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600; 
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+.normalText{
+   font-family: 'Montserrat', sans-serif;
+    color: #8c8c8c;
+    font-size: 15px;
+    padding-top: 10px;
+    letter-spacing: 0px; 
+}
+.subHeading1{
+   font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    padding-top: 10px;
+    letter-spacing: 1px; 
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.extraPadding{
+    padding: 50px 0px;
+}
+.sideImage{
+    height: 480px;
+    width: 100%;
+    border: 1px solid #008f99;
+    padding: 3px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sideImage1{
+     height: 410px;
+}
+.blueBox{
+   background-color: #ccfcff;
+    padding: 77px 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.subHeading2{
+  font-size: 13px;   
+}
+.teamImg{
+   height: 250px;
+    border: 1px solid #008f99;
+    padding: 2px;
+    width: 75%;
+}
+.card{
+    border: none;
+}
+.card-header{
+    background-color: transparent;
+}
+.extraPadding1{
+    padding: 160px 20px; 
+    background-color: #f2f2f2;
+}
 
 
 
